@@ -1,7 +1,5 @@
 ### Hello, Salut, こんにちは 👋
 
-### Languages
-
 <table>
   <tr>
     <th>Language</th>
