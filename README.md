@@ -2,8 +2,9 @@
 
 Lately, I'm focused on backend Ruby & Ruby on Rails since I'm using it at work 🙂 <br />
 But I still try to be up-to-date with various area. <br />
-I've heavily used Node.js/Typescript/React as well. <br />
-Also I enjoy using Go (Golang). <br />
+I've used Node.js/Typescript/React, also enjoy exploring Go. <br /><br />
+
+Outside coding, I enjoy outdoor, workout, cooking, drawing, etc.
 
 <table>
   <tr>
