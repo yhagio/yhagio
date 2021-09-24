@@ -1,6 +1,6 @@
 ### Hello, Salut, こんにちは 👋
 
-Lately, I'm focused on backend Ruby & Ruby on Rails since I'm using it at work 🙂 <br />
+Lately, I'm focused on backend Ruby & Ruby on Rails & a bit of Scala / Flink / React since I'm using it at work 🙂 <br />
 But I still try to be up-to-date with various area. <br />
 I've used Node.js/Typescript/React, also enjoy exploring Go. <br />
 
