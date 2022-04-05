@@ -1,8 +1,8 @@
 ### Hello, Salut, こんにちは 👋
 
-Lately, I'm focused on backend Ruby & Ruby on Rails & a bit of Scala / Flink / React since I'm using it at work 🙂 <br />
+I'm working on backend Ruby & Ruby on Rails & a tiny bit of Scala / Flink / React since I'm using it at work 🙂 <br />
 But I still try to be up-to-date with various area. <br />
-I've used Node.js/Typescript/React, also enjoy exploring Go. <br />
+I've used heavily Node.js/Typescript/React, also enjoy playing around with Go. <br />
 
 Outside coding, I enjoy outdoor, workout, cooking, drawing, etc.
 
